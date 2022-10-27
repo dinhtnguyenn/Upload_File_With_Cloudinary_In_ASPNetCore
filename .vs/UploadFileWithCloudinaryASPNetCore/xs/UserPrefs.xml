@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{A4F331CD-A3F4-4BF4-BF9B-EBF515283062}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UploadFileWithCloudinaryASPNetCore/Controllers/UploadController.cs">
+    <Files>
+      <File FileName="UploadFileWithCloudinaryASPNetCore/Controllers/UploadController.cs" Line="25" Column="36" />
+      <File FileName="UploadFileWithCloudinaryASPNetCore/Program.cs" Line="1" Column="1" />
+      <File FileName="UploadFileWithCloudinaryASPNetCore/appsettings.json" Line="9" Column="2" />
+      <File FileName="UploadFileWithCloudinaryASPNetCore/Models/Message.cs" Line="11" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UploadFileWithCloudinaryASPNetCore" expanded="True">
+            <Node name="UploadFileWithCloudinaryASPNetCore" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.UploadFileWithCloudinaryASPNetCore PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
